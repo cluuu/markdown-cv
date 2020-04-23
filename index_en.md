@@ -2,7 +2,7 @@
 layout: cv
 title: Claudio Zeeb's CV
 ---
-# Claudio Zeeb
+# Claudio Zeebulon
 
 <div id="webaddress">
 <a href="mailto:claudio.zeeb@gmail.com">claudio.zeeb@gmail.com</a>
