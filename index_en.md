@@ -2,7 +2,7 @@
 layout: cv
 title: Claudio Zeeb's CV
 ---
-# Claudio Zeebulon
+# Claudio Zeeb
 
 <div id="webaddress">
 <a href="mailto:claudio.zeeb@gmail.com">claudio.zeeb@gmail.com</a>
@@ -10,11 +10,11 @@ title: Claudio Zeeb's CV
 </div>
 
 
-## Derzeit
+## Currently
 
-Informatikstudent im 4. Semester an der LMU München, Veranstaltungstechniker
+4th Semester Computer Science student at LMU Munich, Freelance Event Technician
 
-### Programmiersprachen
+### Programming languages
 
 Java, C, Python, R, Haskell, bash
 
@@ -22,37 +22,37 @@ Java, C, Python, R, Haskell, bash
 
 VS Code, IntelliJ IDEA, PyCharm, git 
 
-## Ausbildung
+## Education
 
 `Oktober 2018 - heute`
-__Bachelorstudium Informatik plus Statistik, LMU München__
+__Bachelor of Science Computer Science plus Statistics, LMU München__
 
-- Notendurchschnitt Stand 16.04.2020: 1,57
+- Grade point average as of April 16th, 2020: 1,57 (German GPA system)
 
 `September 2014 - Februar 2017 `
-__Ausbildung zur Fachkraft für Veranstaltungstechnik, Münchner Kammerspiele__
+__Professional training as certified Event Technician, Münchner Kammerspiele__
 
-- Abschlussnote 1,9
+- final mark 1,9 (German grading system)
 
 `September 2006 - Juli 2014`
-__Allgemeine Hochschulreife, Gymnasium Ottobrunn__
+__A-Levels, Gymnasium Ottobrunn__
 
-- Abschlussnote 1,9
+- final mark 1,9 (German grading system)
 
 `September 2011 - Juli 2012`
 __Inland Lakes High School, Indian River, Michigan__
 
-- 10-monatiger Auslandsaufenthalt in den USA
-
-## Berufserfahrung
+- 10-month study abroad in the USA
+  
+## Professional Experience
 
 `Oktober 2018 - heute`
-__Selbstständiger Veranstaltungstechniker__
+__Freelance Event Technician__
 
-- Spezialisierung Lichtprogrammierung und Netzwerktechnik
-- Durchführung von Anwenderschulungen im Bereich Lichtsteuerung 
-- und Netzwerktechnik für Electronic Theatre Controls, Holzkirchen
-
+- specialized in lighting programming and networking
+- conducting of end user trainings in the field of lighting console
+- programming and networking for Electronic Theatre Controls, Holzkirchen
+  
 `Februar 2017 - Oktober 2018`
 __Stellwerksbeleuchter und Beleuchter, Münchner Kammerspiele__
 
