@@ -24,67 +24,66 @@ VS Code, IntelliJ IDEA, PyCharm, git
 
 ## Education
 
-`Oktober 2018 - heute`
+`October 2018 - today`
 __Bachelor of Science Computer Science plus Statistics, LMU München__
 
 - Grade point average as of April 16th, 2020: 1,57 (German GPA system)
 
-`September 2014 - Februar 2017 `
+`September 2014 - February 2017 `
 __Professional training as certified Event Technician, Münchner Kammerspiele__
 
 - final mark 1,9 (German grading system)
 
-`September 2006 - Juli 2014`
+`September 2006 - July 2014`
 __A-Levels, Gymnasium Ottobrunn__
 
 - final mark 1,9 (German grading system)
 
-`September 2011 - Juli 2012`
+`September 2011 - July 2012`
 __Inland Lakes High School, Indian River, Michigan__
 
 - 10-month study abroad in the USA
   
 ## Professional Experience
 
-`Oktober 2018 - heute`
+`October 2018 - today`
 __Freelance Event Technician__
 
 - specialized in lighting programming and networking
 - conducting of end user trainings in the field of lighting console
 - programming and networking for Electronic Theatre Controls, Holzkirchen
   
-`Februar 2017 - Oktober 2018`
-__Stellwerksbeleuchter und Beleuchter, Münchner Kammerspiele__
+`February 2017 - October 2018`
+__Lighting operator and technician, Münchner Kammerspiele__
 
-- Programmierung von Lichtshows, Betreuung von Proben und Vorstellungen
-- Instandhaltung und Dokumentation von Netzwerkinfrastruktur, 
-- einfache Systemadministration
-- Durchführung von Gastspielen im In- und Ausland
+- Programming of lightshows, supporting of rehearsals and shows
+- Maintenance and documentation of network infrastructure 
+- simple system administration
+- Realization of traveling shows nationally and internationally
  
 `2014 - 2017`
 
-__Ausbildung zur Fachkraft für Veranstaltungstechnik, Münchner Kammerspiele__
+__Professional training as certified Event Technician, Münchner Kammerspiele__
 
-- Schwerpunkt Aufbau und Durchführung 
+- Focus on setup and implementation 
 
 `2012 - 2015`
-__Aushilfe im Getränkemarkt, Gerhard's Getränkeshop, Neubiberg__
+__Aid to beverage market, Gerhard's Getränkeshop, Neubiberg__
 
-- Mithilfe in Verkauf, Lieferservice und Buchhaltung
+- Support in Sales, delivery and accounting
 
-## Sprachen
-__Deutsch__ 
+## Languages
+__German__ 
 
-- Muttersprache 
+- native language 
 
-__Englisch__
+__English__
 
-- verhandlungssicher
+- business fluent
 
-## Interessen & Hobbies
+## Interests and hobbies
 
-Mountainbiken, Klettern, Skitouren, Kochen, Heimwerken
-
+Mountainbiking, rock climbing, ski mountaineering, cooking, wood- and metalworking
 <!-- ### Footer
 
 Last updated: April 2020 -->
