@@ -16,7 +16,7 @@ Informatikstudent im 4. Semester an der LMU München, Veranstaltungstechniker
 
 ### Programmiersprachen
 
-Java, C, Python, R, Haskell, bash
+Java (jqwik, junit), C, Python, R, Haskell, bash
 
 ### Tools
 
@@ -87,6 +87,6 @@ Mountainbiken, Klettern, Skitouren, Kochen, Heimwerken
 
 <!-- ### Footer
 
-Last updated: April 2020 -->
+Last updated: May 2020 -->
 
 
