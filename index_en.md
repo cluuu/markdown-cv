@@ -16,11 +16,11 @@ title: Claudio Zeeb's CV
 
 ### Programming languages
 
-Java, C, Python, R, Haskell, bash
+Java (jqwik, junit), C#/Unity, C, Python, R, bash
 
 ### Tools
 
-VS Code, IntelliJ IDEA, PyCharm, git 
+Visual Studio (Code), IntelliJ IDEA, PyCharm, git 
 
 ## Education
 
