@@ -49,7 +49,7 @@ __Inland Lakes High School, Indian River, Michigan__
 `July 2020 - Februray 2021`
 __Working Student Software Development, ANavS GmbH, München__
 
-- Development of an automated testing and evaluation tool for internal use 
+- Development of an automated testing and evaluation tool for internal use (Java)
 - Basic DevOps tasks 
 
 `October 2018 - today`
