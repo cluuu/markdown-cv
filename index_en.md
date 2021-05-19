@@ -14,20 +14,20 @@ title: Claudio Zeeb's CV
 
 5th Semester Computer Science student at LMU Munich, Freelance Event Technician
 
-### Programming languages (in order of proficiency) 
+### Programming languages
 
-Java, C, Python, C#/Unity, R
+Java (junit,jqwik), C, Python, R, bash, mySQL
 
 ### Tools
 
-git, docker, xUnit Testing, Continous Integration
+git, docker, xUnit Testing, Property-based Testing, Continous Integration
 
 ## Education
 
 `October 2018 - today`
 __Bachelor of Science Computer Science plus Statistics, LMU München__
 
-- Grade point average as of December 16th, 2020: 1,58 (German GPA system)
+- Grade point average as of January 7th, 2021: 1,81
 
 `September 2014 - February 2017 `
 __Professional training as certified Event Technician, Münchner Kammerspiele__

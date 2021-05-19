@@ -12,22 +12,22 @@ title: Claudio Zeeb's CV
 
 ## Derzeit
 
-Informatikstudent im 5. Semester an der LMU München, Veranstaltungstechniker
+Informatikstudent im 6. Semester an der LMU München, Veranstaltungstechniker
 
 ### Programmiersprachen
 
-Java, C, Python, C#/Unity, bash
+Java, Python, C, bash, mySQL, R
 
 ### Tools
 
-git, docker, xUnit Testing, Continuous Integration
+git, docker, Unit & Property-based Testing, Continuous Integration
 
 ## Ausbildung
 
 `Oktober 2018 - heute`
 __Bachelorstudium Informatik plus Statistik, LMU München__
 
-- Notendurchschnitt Stand 16.12.2020: 1,58
+- Notendurchschnitt Stand 28.04.2021: 1,71
 
 `September 2014 - Februar 2017 `
 __Ausbildung zur Fachkraft für Veranstaltungstechnik, Münchner Kammerspiele__
@@ -46,11 +46,12 @@ __Inland Lakes High School, Indian River, Michigan__
 
 ## Berufserfahrung
 
-`Juli 2020 - Februar 2021`
+`Juli 2020 - Juni 2021`
 __Werkstudent Softwareentwicklung, ANavS GmbH, München__
 
- - Entwicklung eines automatisierten Cloud-basierten Test- und Evaluationstool für internen Gebrauch (Java)
- - Grundlegende DevOps-Aufgaben 
+ - Entwicklung eines automatisierten Cloud-basierten Test- und Evaluationstool für Positionierungssysteme (Java)
+ - Grundlegende DevOps-Aufgaben
+ - Migration von Projekten zwischen Build-Systemen
 
 `Oktober 2018 - heute`
 __Selbstständiger Veranstaltungstechniker__
@@ -93,6 +94,6 @@ Mountainbiken, Klettern, Skitouren, Kochen, Heimwerken
 
 <!-- ### Footer
 
-Last updated: April 2020 -->
+Last updated: May 2021 -->
 
 
