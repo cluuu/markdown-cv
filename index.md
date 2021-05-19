@@ -20,7 +20,7 @@ Java, Python, C, bash, mySQL, R
 
 ### Tools
 
-git, docker, Unit & Property-based Testing, Continuous Integration
+git, docker, Unit- & Property-based Testing, Continuous Integration
 
 ## Ausbildung
 
