@@ -57,8 +57,8 @@ __Werkstudent Softwareentwicklung, ANavS GmbH, München__
 __Selbstständiger Veranstaltungstechniker__
 
 - Spezialisierung Lichtprogrammierung und Netzwerktechnik
-- Durchführung von Anwenderschulungen im Bereich Lichtsteuerung 
-- und Netzwerktechnik für Electronic Theatre Controls, Holzkirchen
+- Durchführung von Anwenderschulungen im Bereich Lichtsteuerung und Netzwerktechnik
+- für Electronic Theatre Controls, Holzkirchen
 
 `Februar 2017 - Oktober 2018`
 __Stellwerksbeleuchter und Beleuchter, Münchner Kammerspiele__
