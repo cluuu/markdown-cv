@@ -16,18 +16,18 @@ title: Claudio Zeeb's CV
 
 ### Programming languages
 
-Java, Python, C, bash, mySQL, R
+Java, Python, C, golang, mySQL, R
 
 ### Tools
 
-git, docker, Linux, Unit- & Property-based Testing, Continuous Integration, Ant, Maven, VS Code, Netbeans
+git, docker, Linux, Unit- & Property-based Testing, Continuous Integration, Ant, Maven, VS Code, Netbeans, Grafana 
 
 ## Education
 
 `October 2018 - today`
 __Bachelor of Science Computer Science plus Statistics, LMU München__
 
-- Grade point average as of April 28th, 2021: 1,71
+- Grade point average as of November 18th, 2021: 1,69
 
 `September 2014 - February 2017 `
 __Professional training as certified Event Technician, Münchner Kammerspiele__
@@ -46,8 +46,14 @@ __Inland Lakes High School, Indian River, Michigan__
   
 ## Professional Experience
 
-`July 2020 - Februray 2021`
-__Working Student Software Development, ANavS GmbH, München__
+`July 2021 - January 2022`
+__Working student IoT connectivity, Stadtwerke München GmbH, Munich__
+ - Prototyping und development of LoraWAN-based IoT solutions
+ - Development of device drivers and decoders (golang) 
+ - Creating dashboards and visualizations (Grafana)  
+
+`July 2020 - June 2021`
+__Working Student Software Development, ANavS GmbH, Munich__
 
 - Development of an automated testing and evaluation tool for positioning systems (Java)
 - Basic DevOps tasks 

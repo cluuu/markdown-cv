@@ -16,18 +16,18 @@ Informatikstudent im 6. Semester an der LMU München, Veranstaltungstechniker
 
 ### Programmiersprachen
 
-Java, Python, C, bash, mySQL, R
+Java, Python, C, golang, mySQL, R
 
 ### Tools
 
-git, docker, Linux, Unit- & Property-based Testing, Continuous Integration, Ant, Maven, VS Code, Netbeans
+git, docker, Linux, Unit- & Property-based Testing, Continuous Integration, Ant, Maven, VS Code, Netbeans, Grafana 
 
 ## Ausbildung
 
 `Oktober 2018 - heute`
 __Bachelorstudium Informatik plus Statistik, LMU München__
 
-- Notendurchschnitt Stand 28.04.2021: 1,71
+- Notendurchschnitt Stand 18.11.2021: 1,69
 
 `September 2014 - Februar 2017 `
 __Ausbildung zur Fachkraft für Veranstaltungstechnik, Münchner Kammerspiele__
@@ -46,11 +46,17 @@ __Inland Lakes High School, Indian River, Michigan__
 
 ## Berufserfahrung
 
+`Juli 2021 - Januar 2022`
+__Werkstudent IoT-Konnektivität, Stadtwerke München GmbH, München__
+ - Prototyping und Entwicklung von LoRaWAN-basierten IoT-Lösungen
+ - Entwicklung von Gerätetreibern und -decodern (golang)
+ - Erstellen von Dashboards und Visualisierungen (Grafana)  
+
 `Juli 2020 - Juni 2021`
 __Werkstudent Softwareentwicklung, ANavS GmbH, München__
 
  - Entwicklung eines automatisierten Cloud-basierten Test- und Evaluationstool für Positionierungssysteme (Java)
- - Grundlegende DevOps-Aufgaben
+ - Grundlegende DevOps-Aufgaben, Pflege von CI-Pipelines 
  - Migration von Projekten zwischen Build-Systemen
 
 `Oktober 2018 - heute`
@@ -67,12 +73,6 @@ __Stellwerksbeleuchter und Beleuchter, Münchner Kammerspiele__
 - Instandhaltung und Dokumentation von Netzwerkinfrastruktur, 
 - einfache Systemadministration
 - Durchführung von Gastspielen im In- und Ausland
- 
-`2014 - 2017`
-
-__Ausbildung zur Fachkraft für Veranstaltungstechnik, Münchner Kammerspiele__
-
-- Schwerpunkt Aufbau und Durchführung 
 
 `2012 - 2015`
 __Aushilfe im Getränkemarkt, Gerhard's Getränkeshop, Neubiberg__
