@@ -56,7 +56,7 @@ __Working student IoT connectivity, Stadtwerke München GmbH, Munich__
 __Working Student Software Development, ANavS GmbH, Munich__
 
 - Development of an automated testing and evaluation tool for positioning systems (Java)
-- Basic DevOps tasks 
+- Basic DevOps tasks, maintenance of CI pipelines 
 - Migration of projects between build systems
 
 `October 2018 - today`
@@ -74,12 +74,6 @@ __Lighting operator and technician, Münchner Kammerspiele__
 - simple system administration
 - Realization of traveling shows nationally and internationally
  
-`2014 - 2017`
-
-__Professional training as certified Event Technician, Münchner Kammerspiele__
-
-- Focus on setup and implementation 
-
 `2012 - 2015`
 __Aid to beverage market, Gerhard's Getränkeshop, Neubiberg__
 
