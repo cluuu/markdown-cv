@@ -12,32 +12,28 @@ title: Claudio Zeeb's CV
 
 ## Currently
 
-6th Semester Computer Science student at LMU Munich, Freelance Event Technician
+Software Engineer at reev GmbH, Freelance Event Technician
 
 ### Programming languages
 
 Java, Python, C, golang, mySQL, R
 
-### Tools
+### Tools & Technologies
 
-git, docker, Linux, Unit- & Property-based Testing, Continuous Integration, Ant, Maven, VS Code, Netbeans, Grafana 
+git, docker, Linux, Unit- & Property-based Testing, CI/CD, Maven, VS Code, Grafana 
 
 ## Education
 
-`October 2018 - today`
+`October 2018 - July 2022`
 __Bachelor of Science Computer Science plus Statistics, LMU München__
 
-- Grade point average as of November 18th, 2021: 1,69
+Bachelor thesis: "Memory Management in Rust: Principles and Comparison with C and C++", Grade 1.0
 
 `September 2014 - February 2017 `
 __Professional training as certified Event Technician, Münchner Kammerspiele__
 
-- final mark 1,9 (German grading system)
-
 `September 2006 - July 2014`
 __A-Levels, Gymnasium Ottobrunn__
-
-- final mark 1,9 (German grading system)
 
 `September 2011 - July 2012`
 __Inland Lakes High School, Indian River, Michigan__
@@ -45,6 +41,13 @@ __Inland Lakes High School, Indian River, Michigan__
 - 10-month study abroad in the USA
   
 ## Professional Experience
+
+`August 2022 - today`
+__Software Engineer, reev GmbH__
+
+`February 2022 - July 2022`
+__Working Student Development, reev GmbH__
+
 
 `July 2021 - January 2022`
 __Working student IoT connectivity, Stadtwerke München GmbH, Munich__
@@ -74,11 +77,6 @@ __Lighting operator and technician, Münchner Kammerspiele__
 - simple system administration
 - Realization of traveling shows nationally and internationally
  
-`2012 - 2015`
-__Aid to beverage market, Gerhard's Getränkeshop, Neubiberg__
-
-- Support in Sales, delivery and accounting
-
 ## Languages
 __German__ 
 
